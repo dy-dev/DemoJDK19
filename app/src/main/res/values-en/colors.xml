@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <bool name="TestBool">true</bool>
+    <color name="TexrtColor1">#098015</color>
 </resources>

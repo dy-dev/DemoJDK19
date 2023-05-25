@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">DemoJDK19</string>
     <string name="hello_world">Hello World!</string>
+    <string name="toto">First Text</string>
+    <string name="ThirdTextStr" translatable="false">Another Text</string>
+    <string name="FourthTextStr" translatable="false">Last Text</string>
 </resources>

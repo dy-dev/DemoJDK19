@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">DemoJDK19</string>
     <string name="hello_world">Bonjour Tout le monde</string>
+    <string name="toto">Premier Text</string>
 </resources>
