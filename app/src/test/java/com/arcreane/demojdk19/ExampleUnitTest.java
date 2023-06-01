@@ -1,4 +1,4 @@
-package com.example.demojdk19;
+package com.arcreane.demojdk19;
 
 import org.junit.Test;
 

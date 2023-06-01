@@ -1,10 +1,12 @@
-package com.example.demojdk19;
+package com.arcreane.demojdk19;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.graphics.Color;
 import android.os.Bundle;
+import android.view.Menu;
 import android.widget.TextView;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -36,4 +38,6 @@ public class MainActivity extends AppCompatActivity {
 //        setContentView(text);
 
     }
+
+
 }

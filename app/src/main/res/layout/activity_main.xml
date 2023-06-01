@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     style="@style/Base.Theme.DemoJDK19"
-    tools:context=".MainActivity">
+    tools:context="com.arcreane.demojdk19.MainActivity">
 
     <TextView
         android:id="@+id/SecondText"

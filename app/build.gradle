@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.demojdk19'
+    namespace 'com.arcreane.demojdk19'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.demojdk19"
+        applicationId 'com.arcreane.demojdk19'
         minSdk 31
         targetSdk 33
         versionCode 1
